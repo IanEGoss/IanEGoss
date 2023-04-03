@@ -7,8 +7,8 @@
 
 ## My Links
 * [Github](https://github.com/IanEGoss)
-* <a href="https://codepen.io/iangoss">Codepen</a>
-* LinkedIn
+* [Codepen](https://codepen.io/iangoss)
+* [LinkedIn](https://linkedin.com/iangoss)
 
 <!--
 **IanEGoss/IanEGoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
