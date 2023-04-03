@@ -1,6 +1,6 @@
 # Ian Goss
 
-<blockquote>Doing stuff.</blockquote>
+> Doing stuff.
 
 ## stuff
 <!--
