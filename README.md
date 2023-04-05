@@ -1,16 +1,19 @@
 # Ian Goss
-![Rocks](https://media.giphy.com/media/SvpdYGodR4QoXnRFjU/giphy.gif)
+! [Rocks](https://media.giphy.com/media/SvpdYGodR4QoXnRFjU/giphy.gif)
 > Doing stuff.
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-## stuff
 
+## stuff
+>[PageLink](https://github.com/IanEGoss/IanEGoss)
 
 ## My Links
 * [Github](https://github.com/IanEGoss)
 * [Codepen](https://codepen.io/iangoss)
 * [LinkedIn](https://linkedin.com/iangoss)
 
+## Bio
+>Working in web 3 at ewu.
 <!--
 **IanEGoss/IanEGoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
