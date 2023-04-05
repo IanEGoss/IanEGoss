@@ -1,5 +1,5 @@
 # Ian Goss
-! [Rocks](https://media.giphy.com/media/SvpdYGodR4QoXnRFjU/giphy.gif)
+![Rocks](https://media.giphy.com/media/SvpdYGodR4QoXnRFjU/giphy.gif)
 > Doing stuff.
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
