@@ -1,11 +1,6 @@
 # Ian Goss
-! [Rocks](https://giphy.com/gifs/wind-trees-naturegifs-XBbe8ApwcblsY.gif)
 
-> Doing stuff.
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
-
-## stuff
+## My Github
 >[PageLink](https://github.com/IanEGoss/IanEGoss)
 
 ## My Links
